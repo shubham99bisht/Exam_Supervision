@@ -3,7 +3,6 @@ import sys
 
 action = sys.argv[1]
 
-
 if action == "add":
     name = sys.argv[2]
     capacity = sys.argv[3]
