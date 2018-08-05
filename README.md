@@ -22,4 +22,6 @@ To run this as desktop application, node js and electron are required. After clo
 
 ## Chart Generated
 
-![alt text](https://github.com/shubham99bisht/Exam_Supervision/blob/master/Charts/Exam_Supervision_Chart.pdf)
+![alt text](https://github.com/shubham99bisht/Exam_Supervision/blob/master/src/Chart.png)
+
+**PDFs are generated which are stored in Chart folder.**
